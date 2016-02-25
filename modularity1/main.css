@@ -1,0 +1,102 @@
+/* ADD YOUR STYLES HERE */
+.class1 td {
+  border-bottom: 0.5px solid black;
+  padding-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.class2 {
+  border-top: 0.25px solid gray;
+  border-bottom:  0.25px solid gray;
+
+}
+
+.bigAndBold {
+  font-size: 30px;
+  margin-left: 30px;
+  margin-top: 23px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.small{
+  font-size: 15px;
+  color: gray;
+  margin-left: 15px;
+  margin-bottom: 23px;
+}
+
+.length {
+  width: 100%;
+}
+
+.barStyle td {
+
+  width: 100%;
+}
+/*style for the bars in barchart*/
+.barStyle div {
+  background-color:  #1badde;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  height: 25px;
+}
+/*Light box content
+.lightBoxContent {
+  border-radius: 25px;
+  background-color: #f2f2f2;
+  width: 60%;
+  margin: 0 auto;
+  padding: 15px 1px 1px 25px;
+}
+div containing content
+.lightBox {
+  display: table-cell;
+  vertical-align: middle;
+}
+box surrounding content div
+.bigBox {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: table;*/
+}
+/*Button for the lightbox*/
+.button {
+  width: 100px;
+  height: 30px;
+  background-color: #eb2d7c;
+  border-radius: 7px;
+  text-align: center;
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: 25px;
+  margin-left: 600px;
+  margin-bottom: 30px;
+}
+
+.firstStruct {
+  float: left;
+  margin: 5px 10px
+}
+
+.secondStruct {
+  float: left;
+  margin: 5px 10px 50px 5px
+}
+
+.thirdStruct {
+  float:left;
+  margin: 5px 10px 50px 5px;
+}
+
+.fourthStruct {
+  float:left;
+  margin: 5px 10px 50px 62px;
+
+}

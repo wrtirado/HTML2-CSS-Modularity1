@@ -1,0 +1,12 @@
+.container {
+height: 500px;
+background-color: cadetblue;
+}
+
+.center-me {
+  height: 100px;
+  width: 100px;
+  background-color: burlywood;
+  margin: auto;
+  display: inline-block;
+}
